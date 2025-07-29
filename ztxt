@@ -1,0 +1,14 @@
+learn Next js 
+Rouing Page segments
+Layouts
+Lining and Navigateing
+useRouter Hook
+Server Components vs Client Components 
+                      "use client"
+                      Defaultly server Components
+Dynamic Routes,Multiple Dynamic segments
+Route Handler
+Geting Request Data from api 
+
+Blog Project using NestJs
+
